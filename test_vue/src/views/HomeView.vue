@@ -6,7 +6,7 @@
           新創公道伯
         </p>
         <p class="subtitle">
-          最輕鬆上手的新創手冊
+          hello~~~
         </p>
       </div>
     </section>
