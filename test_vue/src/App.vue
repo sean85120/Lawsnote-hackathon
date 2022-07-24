@@ -13,7 +13,7 @@
 
       <div class="navbar-menu" id="navbar-menu" v-bind:class="{'is-active': showMobileMenu}">
         <div class="navbar-end">
-          <router-link to="/one" class="navbar-item">
+          <router-link to="/map" class="navbar-item">
             <span class="icon"><i class="fa-solid fa-circle-info fa-beat-fade" style="--fa-animation-duration: 1.25s;"></i></span>
             <span>新創地圖</span>
           </router-link>
